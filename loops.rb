@@ -1,0 +1,39 @@
+# def dance
+#   moves_slay=0
+  
+#   loop do
+#     if moves_slay==10
+#       break
+# end
+#   puts "step to the left"
+#   puts "step to the right"
+#   puts "kick"
+#   moves_slay=moves_slay+1
+# end
+# end
+# dance
+
+# #DEFINE KODE WITH KLOSSY METHOD
+# def kwk
+#   days=2
+#   days_left = 7
+# #MAKE A WHILE loop
+#   while days < 10
+#   puts "Keep coming to camp"
+#   #days = days + 1
+#   puts "You have #{days_left} days left"
+#   days+= 1
+#   days_left-=1
+#   end 
+#   puts "Camp is over"
+# end
+
+# kwk
+
+
+
+
+  
+
+
+  
